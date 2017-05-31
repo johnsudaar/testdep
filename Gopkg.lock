@@ -4,8 +4,8 @@
 [[projects]]
   name = "github.com/johnsudaar/testpkg1"
   packages = ["."]
-  revision = "8698b6bc159a877c40a53f69d46699adc7eeea4f"
-  version = "1.0.0"
+  revision = "d4d0364c860e52f0560b079f5d5070a20b86940a"
+  version = "1.0.1"
 
 [[projects]]
   name = "github.com/johnsudaar/testpkg2"
