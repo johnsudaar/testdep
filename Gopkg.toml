@@ -2,3 +2,7 @@
   version = "1.0.0"
   name = "github.com/johnsudaar/testpkg1"
 
+[[constraint]]
+  version = "1.2.0"
+  name = "github.com/johnsudaar/testpkg2"
+
